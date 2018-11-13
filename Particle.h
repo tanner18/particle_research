@@ -5,7 +5,7 @@
 #ifndef PARTICLE_H
 #define PARTICLE_H
 
-
+// class Particle: representations of elementary particles
 class Particle {
 public:
     Particle();
