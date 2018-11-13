@@ -1,6 +1,10 @@
 #include <iostream>
+#include "Particle.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    Particle G(.24, .70);
+
+    std::cout << G.calculateMomentum() << std::endl;
     return 0;
 }
