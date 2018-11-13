@@ -4,5 +4,6 @@
 CMakeFiles/particle_research.dir/Particle.cpp.o: ../Particle.cpp
 CMakeFiles/particle_research.dir/Particle.cpp.o: ../Particle.h
 
+CMakeFiles/particle_research.dir/main.cpp.o: ../Particle.h
 CMakeFiles/particle_research.dir/main.cpp.o: ../main.cpp
 

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hawking/workspace/particle-research/Particle.cpp
-cmath
--
-Particle.h
 /home/hawking/workspace/particle-research/Particle.h
 
+/home/hawking/workspace/particle-research/main.cpp
+iostream
+-
+Particle.h
 /home/hawking/workspace/particle-research/Particle.h
 
