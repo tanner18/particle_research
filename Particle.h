@@ -13,6 +13,8 @@ public:
     double calculateMomentum();
     static constexpr double SPEED_OF_LIGHT {3.0e8}; // speed of light
 
+    double gamma();
+
 
 private:
     double mass_{1.0}, velocity_{1.0}; // initialized to 1
