@@ -123,6 +123,33 @@ particle_research/fast:
 	$(MAKE) -f CMakeFiles/particle_research.dir/build.make CMakeFiles/particle_research.dir/build
 .PHONY : particle_research/fast
 
+Particle.o: Particle.cpp.o
+
+.PHONY : Particle.o
+
+# target to build an object file
+Particle.cpp.o:
+	$(MAKE) -f CMakeFiles/particle_research.dir/build.make CMakeFiles/particle_research.dir/Particle.cpp.o
+.PHONY : Particle.cpp.o
+
+Particle.i: Particle.cpp.i
+
+.PHONY : Particle.i
+
+# target to preprocess a source file
+Particle.cpp.i:
+	$(MAKE) -f CMakeFiles/particle_research.dir/build.make CMakeFiles/particle_research.dir/Particle.cpp.i
+.PHONY : Particle.cpp.i
+
+Particle.s: Particle.cpp.s
+
+.PHONY : Particle.s
+
+# target to generate assembly for a file
+Particle.cpp.s:
+	$(MAKE) -f CMakeFiles/particle_research.dir/build.make CMakeFiles/particle_research.dir/Particle.cpp.s
+.PHONY : Particle.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... particle_research"
+	@echo "... Particle.o"
+	@echo "... Particle.i"
+	@echo "... Particle.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
