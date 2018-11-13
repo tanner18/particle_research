@@ -15,7 +15,7 @@ public:
 
 
 private:
-    double mass_{1.0}, velocity_{1.0};
+    double mass_{1.0}, velocity_{1.0}; // initialized to 1
 
 
 
