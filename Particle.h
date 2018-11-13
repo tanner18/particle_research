@@ -11,7 +11,7 @@ public:
     Particle();
     Particle(double mass, double velocity);
     double calculateMomentum();
-    static constexpr double SPEED_OF_LIGHT {3.0e8};
+    static constexpr double SPEED_OF_LIGHT {3.0e8}; // speed of light
 
 
 private:
