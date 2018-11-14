@@ -9,6 +9,5 @@ int main() {
 
     std::cout << G.calculateMomentum() << std::endl;
 
-    std::cout << "Line: " << __LINE__ << std::endl;
     return 0;
 }
