@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,80 +23,80 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_cd0ef/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_cd0ef.dir/build.make CMakeFiles/cmTC_cd0ef.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_cd0ef.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_cd0ef.dir/testCCompiler.c.o   -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_cd0ef
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd0ef.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_cd0ef.dir/testCCompiler.c.o  -o cmTC_cd0ef 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_2c4f8/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_2c4f8.dir/build.make CMakeFiles/cmTC_2c4f8.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_2c4f8.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_2c4f8.dir/testCCompiler.c.o   -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_2c4f8
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c4f8.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_2c4f8.dir/testCCompiler.c.o  -o cmTC_2c4f8 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_db0f1/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_db0f1.dir/build.make CMakeFiles/cmTC_db0f1.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o   -c /home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_db0f1
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db0f1.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o  -o cmTC_db0f1 
-Using built-in specs.
+Run Build Command:"/usr/bin/gmake" "cmTC_4b8dc/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_4b8dc.dir/build.make CMakeFiles/cmTC_4b8dc.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o   -c /home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_4b8dc
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4b8dc.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o  -o cmTC_4b8dc 
+Es werden eingebaute Spezifikationen verwendet.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper
 OFFLOAD_TARGET_NAMES=nvptx-none
 OFFLOAD_TARGET_DEFAULT=1
-Target: x86_64-redhat-linux
-Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
-Thread model: posix
-gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) 
+Ziel: x86_64-redhat-linux
+Konfiguriert mit: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
+Thread-Modell: posix
+gcc-Version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) 
 COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_db0f1' '-mtune=generic' '-march=x86-64'
- /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/cccIMIOo.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_db0f1 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_db0f1' '-mtune=generic' '-march=x86-64'
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4b8dc' '-mtune=generic' '-march=x86-64'
+ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccH5mr7o.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_4b8dc /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4b8dc' '-mtune=generic' '-march=x86-64'
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_db0f1/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_db0f1.dir/build.make CMakeFiles/cmTC_db0f1.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o   -c /home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_db0f1]
-  ignore line: [/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db0f1.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o  -o cmTC_db0f1 ]
-  ignore line: [Using built-in specs.]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_4b8dc/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_4b8dc.dir/build.make CMakeFiles/cmTC_4b8dc.dir/build]
+  ignore line: [gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten]
+  ignore line: [Building C object CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o   -c /home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_4b8dc]
+  ignore line: [/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4b8dc.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o  -o cmTC_4b8dc ]
+  ignore line: [Es werden eingebaute Spezifikationen verwendet.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper]
   ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
   ignore line: [OFFLOAD_TARGET_DEFAULT=1]
-  ignore line: [Target: x86_64-redhat-linux]
-  ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
-  ignore line: [Thread model: posix]
-  ignore line: [gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) ]
+  ignore line: [Ziel: x86_64-redhat-linux]
+  ignore line: [Konfiguriert mit: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
+  ignore line: [Thread-Modell: posix]
+  ignore line: [gcc-Version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) ]
   ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_db0f1' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/cccIMIOo.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_db0f1 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4b8dc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccH5mr7o.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_4b8dc /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cccIMIOo.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccH5mr7o.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -111,7 +111,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_db0f1] ==> ignore
+    arg [cmTC_4b8dc] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o] ==> ignore
@@ -120,7 +120,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../..]
-    arg [CMakeFiles/cmTC_db0f1.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_4b8dc.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -145,17 +145,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_c0afe/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_c0afe.dir/build.make CMakeFiles/cmTC_c0afe.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c0afe.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_c0afe.dir/feature_tests.c.o   -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_c0afe
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c0afe.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_c0afe.dir/feature_tests.c.o  -o cmTC_c0afe 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_f408f/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_f408f.dir/build.make CMakeFiles/cmTC_f408f.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_f408f.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_f408f.dir/feature_tests.c.o   -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_f408f
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f408f.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_f408f.dir/feature_tests.c.o  -o cmTC_f408f 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -165,17 +165,17 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_e12a2/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_e12a2.dir/build.make CMakeFiles/cmTC_e12a2.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_e12a2.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_e12a2.dir/feature_tests.c.o   -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_e12a2
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e12a2.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_e12a2.dir/feature_tests.c.o  -o cmTC_e12a2 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_b855c/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_b855c.dir/build.make CMakeFiles/cmTC_b855c.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_b855c.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_b855c.dir/feature_tests.c.o   -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_b855c
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b855c.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_b855c.dir/feature_tests.c.o  -o cmTC_b855c 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -185,17 +185,17 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_d11e8/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_d11e8.dir/build.make CMakeFiles/cmTC_d11e8.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d11e8.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_d11e8.dir/feature_tests.c.o   -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_d11e8
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d11e8.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_d11e8.dir/feature_tests.c.o  -o cmTC_d11e8 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_d9bc9/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_d9bc9.dir/build.make CMakeFiles/cmTC_d9bc9.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_d9bc9.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_d9bc9.dir/feature_tests.c.o   -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_d9bc9
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d9bc9.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_d9bc9.dir/feature_tests.c.o  -o cmTC_d9bc9 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -203,77 +203,77 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_bf6b4/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_bf6b4.dir/build.make CMakeFiles/cmTC_bf6b4.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_bf6b4.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_bf6b4.dir/testCXXCompiler.cxx.o -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_bf6b4
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bf6b4.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_bf6b4.dir/testCXXCompiler.cxx.o  -o cmTC_bf6b4 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_ac81e/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_ac81e.dir/build.make CMakeFiles/cmTC_ac81e.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_ac81e.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_ac81e.dir/testCXXCompiler.cxx.o -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_ac81e
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac81e.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_ac81e.dir/testCXXCompiler.cxx.o  -o cmTC_ac81e 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_e5112/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_e5112.dir/build.make CMakeFiles/cmTC_e5112.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o -c /home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_e5112
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e5112.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_e5112 
-Using built-in specs.
+Run Build Command:"/usr/bin/gmake" "cmTC_e894c/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_e894c.dir/build.make CMakeFiles/cmTC_e894c.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o -c /home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_e894c
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e894c.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_e894c 
+Es werden eingebaute Spezifikationen verwendet.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper
 OFFLOAD_TARGET_NAMES=nvptx-none
 OFFLOAD_TARGET_DEFAULT=1
-Target: x86_64-redhat-linux
-Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
-Thread model: posix
-gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) 
+Ziel: x86_64-redhat-linux
+Konfiguriert mit: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
+Thread-Modell: posix
+gcc-Version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) 
 COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e5112' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccU91d7P.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e5112 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e5112' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e894c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJue4VH.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e894c /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e894c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_e5112/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_e5112.dir/build.make CMakeFiles/cmTC_e5112.dir/build]
-  ignore line: [gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o -c /home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_e5112]
-  ignore line: [/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e5112.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_e5112 ]
-  ignore line: [Using built-in specs.]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_e894c/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_e894c.dir/build.make CMakeFiles/cmTC_e894c.dir/build]
+  ignore line: [gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten]
+  ignore line: [Building CXX object CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o -c /home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_e894c]
+  ignore line: [/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e894c.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_e894c ]
+  ignore line: [Es werden eingebaute Spezifikationen verwendet.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper]
   ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
   ignore line: [OFFLOAD_TARGET_DEFAULT=1]
-  ignore line: [Target: x86_64-redhat-linux]
-  ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
-  ignore line: [Thread model: posix]
-  ignore line: [gcc version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) ]
+  ignore line: [Ziel: x86_64-redhat-linux]
+  ignore line: [Konfiguriert mit: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,objc,obj-c++,ada,go,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --enable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
+  ignore line: [Thread-Modell: posix]
+  ignore line: [gcc-Version 8.2.1 20181105 (Red Hat 8.2.1-5) (GCC) ]
   ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e5112' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccU91d7P.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e5112 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e894c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJue4VH.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_e894c /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccU91d7P.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccJue4VH.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -288,7 +288,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_e5112] ==> ignore
+    arg [cmTC_e894c] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o] ==> ignore
@@ -297,7 +297,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../..]
-    arg [CMakeFiles/cmTC_e5112.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_e894c.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -320,17 +320,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_097e8/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_097e8.dir/build.make CMakeFiles/cmTC_097e8.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_097e8.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_097e8.dir/feature_tests.cxx.o -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_097e8
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_097e8.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_097e8.dir/feature_tests.cxx.o  -o cmTC_097e8 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_b3806/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_b3806.dir/build.make CMakeFiles/cmTC_b3806.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_b3806.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_b3806.dir/feature_tests.cxx.o -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_b3806
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b3806.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_b3806.dir/feature_tests.cxx.o  -o cmTC_b3806 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -393,17 +393,17 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
 
 
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_d57e2/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_d57e2.dir/build.make CMakeFiles/cmTC_d57e2.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d57e2.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_d57e2.dir/feature_tests.cxx.o -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_d57e2
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d57e2.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_d57e2.dir/feature_tests.cxx.o  -o cmTC_d57e2 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_ab00e/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_ab00e.dir/build.make CMakeFiles/cmTC_ab00e.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_ab00e.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_ab00e.dir/feature_tests.cxx.o -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ab00e
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ab00e.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_ab00e.dir/feature_tests.cxx.o  -o cmTC_ab00e 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -466,17 +466,17 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_c95c0/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_c95c0.dir/build.make CMakeFiles/cmTC_c95c0.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_c95c0.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_c95c0.dir/feature_tests.cxx.o -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_c95c0
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c95c0.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_c95c0.dir/feature_tests.cxx.o  -o cmTC_c95c0 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_20271/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_20271.dir/build.make CMakeFiles/cmTC_20271.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_20271.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_20271.dir/feature_tests.cxx.o -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_20271
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_20271.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_20271.dir/feature_tests.cxx.o  -o cmTC_20271 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -539,17 +539,17 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_1e3a9/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_1e3a9.dir/build.make CMakeFiles/cmTC_1e3a9.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_1e3a9.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_1e3a9.dir/feature_tests.cxx.o -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_1e3a9
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1e3a9.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_1e3a9.dir/feature_tests.cxx.o  -o cmTC_1e3a9 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_cf3e8/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_cf3e8.dir/build.make CMakeFiles/cmTC_cf3e8.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_cf3e8.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_cf3e8.dir/feature_tests.cxx.o -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_cf3e8
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf3e8.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_cf3e8.dir/feature_tests.cxx.o  -o cmTC_cf3e8 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -612,17 +612,17 @@ gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-bui
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_b6439/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_b6439.dir/build.make CMakeFiles/cmTC_b6439.dir/build
-gmake[1]: Entering directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b6439.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_b6439.dir/feature_tests.cxx.o -c /home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_b6439
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6439.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_b6439.dir/feature_tests.cxx.o  -o cmTC_b6439 
-gmake[1]: Leaving directory '/home/hawking/workspace/particle-research/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_c4cf3/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_c4cf3.dir/build.make CMakeFiles/cmTC_c4cf3.dir/build
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_c4cf3.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_c4cf3.dir/feature_tests.cxx.o -c /home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_c4cf3
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c4cf3.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_c4cf3.dir/feature_tests.cxx.o  -o cmTC_c4cf3 
+gmake[1]: Verzeichnis „/home/wjt/my-workspace/particle_research/cmake-build-debug/CMakeFiles/CMakeTmp“ wird verlassen
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

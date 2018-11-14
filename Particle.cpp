@@ -4,6 +4,7 @@
 
 #include <cmath>
 #include "Particle.h"
+#include <gsl/gsl_const_mksa.h> // for gsl physical constants
 
 double Particle::gamma() {return 1/(sqrt(1-velocity_*velocity_/(SPEED_OF_LIGHT*SPEED_OF_LIGHT)));}
 

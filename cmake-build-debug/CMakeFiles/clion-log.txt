@@ -1,4 +1,4 @@
-/home/hawking/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/hawking/workspace/particle-research
+/home/wjt/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wjt/my-workspace/particle_research
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/hawking/workspace/particle-research/cmake-build-debug
+-- Build files have been written to: /home/wjt/my-workspace/particle_research/cmake-build-debug

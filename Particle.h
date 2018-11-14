@@ -12,6 +12,9 @@ public:
     Particle(double mass, double velocity);
     double calculateMomentum();
     static constexpr double SPEED_OF_LIGHT {3.0e8}; // speed of light
+    static constexpr double SPEED_OF_LIGHT_MeV {931.494013}; // c^2 in MeV/u
+    static constexpr double AMU {1.66053886e-27}; // amu to kg
+    static constexpr double ELECTRON_VOLT {1.602176462e-19}; // eV to Joules
 
     double gamma();
 

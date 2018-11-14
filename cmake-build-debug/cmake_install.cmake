@@ -1,4 +1,4 @@
-# Install script for directory: /home/hawking/workspace/particle-research
+# Install script for directory: /home/wjt/my-workspace/particle_research
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hawking/workspace/particle-research/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/wjt/my-workspace/particle_research/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
