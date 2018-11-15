@@ -10,6 +10,7 @@ class Particle {
 public:
     Particle();
     Particle(double mass, double velocity);
+    Particle(double charge);
     double calculateMomentum();
     static constexpr double SPEED_OF_LIGHT {3.0e8}; // speed of light
     static constexpr double SPEED_OF_LIGHT_MeV {931.494013}; // c^2 in MeV/u
