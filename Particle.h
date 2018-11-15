@@ -17,6 +17,8 @@ public:
     static constexpr double AMU {1.66053886e-27}; // amu to kg
     static constexpr double ELECTRON_VOLT {1.602176462e-19}; // eV to Joules
 
+    enum class QuarkCharge {u=.66667, d=-0.33333, c=0.66667, 
+    s=-0.33333, t=.66667, b=-0.33333};
     double gamma();
 
 
